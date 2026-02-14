@@ -1,102 +1,144 @@
 # Archivo Cultural
 
-**Archivo Cultural** es un proyecto de biblioteca digital orientado a la preservación, organización y difusión de obras históricas, manuscritos y documentos fundamentales de la historia cultural de América Latina y el mundo hispánico.
+**Archivo Cultural** es una biblioteca digital y repositorio cultural en línea dedicado a la recopilación, organización, preservación y difusión de libros, manuscritos y documentos históricos, principalmente de América Latina y el mundo hispánico.
 
-El proyecto nace como respuesta a una problemática frecuente en el acceso al patrimonio documental: muchos textos históricos se encuentran dispersos en internet, mal catalogados, sin contexto editorial, con baja legibilidad o difícilmente localizables para investigadores, estudiantes y lectores interesados.
+🌐 Sitio oficial:
+[https://archivocultural.org](https://archivocultural.org)
 
-Archivo Cultural busca centralizar estos materiales y presentarlos de forma curada, contextualizada y técnicamente optimizada para su descubrimiento, manteniendo siempre un enfoque educativo, académico y cultural.
+🌍 Wikidata:
+[https://www.wikidata.org/wiki/Q138226403](https://www.wikidata.org/wiki/Q138226403)
 
-🌐 Sitio oficial:  
-https://archivocultural.org
-
----
-
-## 🎯 Objetivos del proyecto
-
-- Facilitar el acceso libre a obras históricas de dominio público.
-- Mejorar la legibilidad de documentos antiguos mediante ediciones digitales cuidadas.
-- Aportar contexto histórico, autoral y cultural a cada obra.
-- Ofrecer una estructura clara que permita la búsqueda y navegación eficiente.
-- Servir como repositorio de referencia para estudiantes, docentes e investigadores.
-- Contribuir a la preservación y difusión del patrimonio cultural escrito.
+🗣 Comunidad en Reddit:
+[https://www.reddit.com/r/ArchivoCultural](https://www.reddit.com/r/ArchivoCultural)
 
 ---
 
-## 📚 Obras disponibles (selección)
+## 📚 El proyecto
 
-Las obras se publican con:
-- Acceso al documento original (PDF).
-- Versión digital legible (OCR revisado).
-- Contexto histórico y editorial.
+Archivo Cultural nace como respuesta a una problemática frecuente en el acceso al patrimonio documental: miles de textos históricos de dominio público se encuentran dispersos en internet, mal catalogados, sin metadatos claros, con baja legibilidad o sin contexto editorial adecuado.
 
-Listado completo en:  
+El proyecto busca:
+
+* Centralizar materiales históricos relevantes.
+* Presentarlos de forma curada y contextualizada.
+* Mejorar su legibilidad mediante ediciones digitales cuidadas.
+* Optimizar su estructura para descubrimiento en buscadores y sistemas de recuperación de información.
+* Facilitar su uso académico y educativo.
+
+No pretende sustituir archivos institucionales ni bibliotecas nacionales, sino funcionar como un punto de acceso organizado y comprensible a materiales que suelen encontrarse fragmentados o poco visibles.
+
+---
+
+## 🎯 Objetivos
+
+* Facilitar el acceso libre a obras históricas de dominio público.
+* Aportar contexto histórico, autoral y cultural a cada documento.
+* Ofrecer versiones digitales legibles (OCR revisado).
+* Preservar el patrimonio cultural escrito.
+* Servir como repositorio de referencia para estudiantes, docentes e investigadores.
+* Mejorar la indexabilidad y descubrimiento de fuentes primarias históricas.
+
+---
+
+## 📖 Alcance y contenido
+
+El catálogo incluye:
+
+* Crónicas de Indias
+* Literatura del Siglo de Oro
+* Testimonios coloniales
+* Ensayo político e interpretación histórica
+* Tradiciones y memoria cultural latinoamericana
+
+Cada obra puede presentarse en distintos formatos:
+
+* Edición facsimilar en PDF
+* Versión digital legible
+* Contexto histórico
+* Referencias cruzadas
+* Notas editoriales
+
+Listado completo de obras:
 📄 [`indice-obras.md`](indice-obras.md)
 
-Ejemplos:
-
-1. **La Araucana** – Alonso de Ercilla  
-   https://archivocultural.org/obras/la-araucana.html
-
-2. **Cartas de Pedro de Valdivia** – Pedro de Valdivia  
-   https://archivocultural.org/obras/cartas-pedro-de-valdivia.html
-
-3. **Historia física y política de Chile** – Claudio Gay  
-   https://archivocultural.org/obras/historia-fisica-y-politica-de-chile.html
-
----
-
-## 🧑‍🏫 Autores destacados
-
-Listado completo en:  
+Listado completo de autores:
 📄 [`autores.md`](autores.md)
 
-- Pedro de Valdivia  
-  https://archivocultural.org/autores/pedro-de-valdivia.html
+---
 
-- Alonso de Ercilla  
-  https://archivocultural.org/autores/alonso-de-ercilla.html
+## 🧭 Línea editorial
 
-- Claudio Gay  
-  https://archivocultural.org/autores/claudio-gay.html
+Archivo Cultural no es un simple repositorio de archivos digitales. Cada publicación sigue principios editoriales definidos:
 
-- Miguel de Cervantes  
-  https://archivocultural.org/autores/miguel-de-cervantes.html
+* **Rigor bibliográfico:** respeto por título, autoría y fecha originales.
+* **Contextualización histórica:** explicación del marco cultural y político.
+* **Accesibilidad:** mejora de legibilidad sin alterar el contenido.
+* **Curaduría:** selección intencional, no publicación masiva automática.
+* **Neutralidad:** enfoque educativo y cultural, sin fines políticos ni ideológicos.
+
+El objetivo no es la explotación comercial del contenido, sino su preservación y difusión responsable.
 
 ---
 
-## 📖 Línea editorial
+## 🔍 Diseño orientado a UX y SEO
 
-Archivo Cultural no se limita a alojar archivos digitales. Cada obra se presenta bajo una línea editorial clara:
+El sitio está estructurado con enfoque en:
 
-- Respeto por el contenido original.
-- Modernización ortográfica solo cuando es necesario para la comprensión.
-- Separación explícita entre texto original y texto editado.
-- Contextualización histórica basada en fuentes reconocidas.
-- Enfoque educativo y no comercial.
+* Experiencia de usuario (UX)
+* Arquitectura semántica clara
+* Indexabilidad en motores de búsqueda
+* Descubrimiento por sistemas de IA y recuperación de información
 
-El proyecto no persigue fines políticos ni ideológicos, y se posiciona como un repositorio cultural abierto y neutral.
+La combinación de curaduría editorial y estructura técnica permite que documentos históricos —frecuentemente invisibles en buscadores— puedan ser encontrados, citados y utilizados con mayor facilidad.
 
 ---
 
 ## ⚖️ Aspectos legales
 
-Las obras publicadas pertenecen al dominio público o se distribuyen con fines educativos y culturales, de acuerdo con la legislación vigente y las buenas prácticas de bibliotecas digitales.
+Las obras publicadas pertenecen al dominio público o se distribuyen con fines educativos y culturales, conforme a la legislación vigente y las buenas prácticas de bibliotecas digitales.
 
-Si detectas algún error o contenido que deba ser revisado, puedes contactarnos a través del sitio oficial.
-
----
-
-## 🤝 Colaboraciones
-
-Archivo Cultural es un proyecto abierto al diálogo con:
-- Investigadores
-- Docentes
-- Estudiantes
-- Instituciones culturales
-
-Este repositorio funciona como apoyo documental y punto de referencia del proyecto.
+Si un titular de derechos considera que algún contenido debe ser revisado, puede contactarnos a través del sitio oficial:
+[https://archivocultural.org/acerca.html](https://archivocultural.org/acerca.html)
 
 ---
 
-Archivo Cultural  
-Biblioteca digital de acceso libre al patrimonio histórico escrito.
+## 🎯 Público objetivo
+
+Archivo Cultural está dirigido a:
+
+* Estudiantes y docentes
+* Investigadores y académicos
+* Lectores interesados en historia y cultura latinoamericana
+* Personas que buscan fuentes primarias confiables
+
+---
+
+## 🗣 Comunidad y discusión
+
+Archivo Cultural mantiene una comunidad abierta en Reddit:
+
+🔗 [https://www.reddit.com/r/ArchivoCultural](https://www.reddit.com/r/ArchivoCultural)
+
+Allí se comparten:
+
+* Nuevas incorporaciones al archivo
+* Contextos históricos
+* Referencias bibliográficas
+* Debate académico y cultural
+
+La participación es voluntaria y no es requisito para acceder al contenido del sitio.
+
+---
+
+## 🌍 Identidad digital estructurada
+
+El proyecto cuenta con registro estructurado en Wikidata:
+
+🔎 [https://www.wikidata.org/wiki/Q138226403](https://www.wikidata.org/wiki/Q138226403)
+
+Esto permite mejorar su interoperabilidad, trazabilidad académica y presencia en ecosistemas de datos abiertos.
+
+---
+
+**Archivo Cultural**
+Biblioteca digital de acceso libre al patrimonio histórico escrito de América Latina.
