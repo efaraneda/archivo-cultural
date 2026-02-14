@@ -1,7 +1,3 @@
-Aquí tienes la versión actualizada del archivo **README / índice en Markdown** para GitHub, alineada con el contenido real del índice oficial de autores.
-
----
-
 # Índice de Autores Históricos – Archivo Cultural
 
 Este documento reúne el **índice completo de autores históricos** disponibles en el repositorio digital **Archivo Cultural**, con enlaces directos a sus perfiles individuales.
