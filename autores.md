@@ -9,7 +9,7 @@ Archivo Cultural ofrece acceso libre a **libros, manuscritos y documentos histó
 
 ---
 
-## 📚 Autores disponibles (53 total)
+## 📚 Autores disponibles (71 total)
 
 ### José de Acosta (1540–1600)
 
@@ -43,6 +43,13 @@ Obra disponible: *Historia de la República del Perú*
 
 ---
 
+### Víctor Andrés Belaúnde (1883–1966)
+
+Filósofo, ensayista y diplomático peruano. Miembro de la Generación del 900.
+[https://archivocultural.org/autores/victor-andres-belaunde.html](https://archivocultural.org/autores/victor-andres-belaunde.html)
+
+---
+
 ### Toribio de Benavente "Motolinía" (1482–1565)
 
 Fraile franciscano e historiador de la Nueva España.
@@ -56,22 +63,6 @@ Obra disponible: *Historia de los indios de la Nueva España*
 Viajero y cronista italiano.
 Obra disponible: *Historia del Mondo Nuovo*
 [https://archivocultural.org/autores/girolamo-benzoni.html](https://archivocultural.org/autores/girolamo-benzoni.html)
-
----
-
-### Bernal Díaz del Castillo (1496–1584)
-
-Cronista de la conquista de México.
-Obra disponible: *Historia verdadera de la conquista de la Nueva España*
-[https://archivocultural.org/autores/bernal-diaz-del-castillo.html](https://archivocultural.org/autores/bernal-diaz-del-castillo.html)
-
----
-
-### Bernardino de Sahagún (1499–1590)
-
-Fraile franciscano y etnógrafo de la cultura náhuatl.
-Obra disponible: *Historia general de las cosas de Nueva España*
-[https://archivocultural.org/autores/bernardino-de-sahagun.html](https://archivocultural.org/autores/bernardino-de-sahagun.html)
 
 ---
 
@@ -94,7 +85,7 @@ Obras disponibles: *Blanca Sol*, *El conspirador*
 ### Álvar Núñez Cabeza de Vaca (1488–1559)
 
 Conquistador y explorador español.
-Obra disponible: *Naufragios*
+Obras disponibles: *Naufragios*, *Comentarios*
 [https://archivocultural.org/autores/alvar-nunez-cabeza-de-vaca.html](https://archivocultural.org/autores/alvar-nunez-cabeza-de-vaca.html)
 
 ---
@@ -126,7 +117,7 @@ Obra disponible: *Crónica del Perú*
 ### Bernabé Cobo (1580–1657)
 
 Jesuita español, naturalista e historiador.
-Obra disponible: *Historia del Nuevo Mundo*
+Obras disponibles: *Historia del Nuevo Mundo*, *Historia de la fundación de Lima*
 [https://archivocultural.org/autores/bernabe-cobo.html](https://archivocultural.org/autores/bernabe-cobo.html)
 
 ---
@@ -147,11 +138,33 @@ Obra disponible: *Cartas de Relación*
 
 ---
 
+### Rubén Darío (1867–1916)
+
+Poeta nicaragüense, máximo representante del modernismo hispanoamericano.
+[https://archivocultural.org/autores/ruben-dario.html](https://archivocultural.org/autores/ruben-dario.html)
+
+---
+
+### Bernal Díaz del Castillo (1496–1584)
+
+Cronista de la conquista de México.
+Obra disponible: *Historia verdadera de la conquista de la Nueva España*
+[https://archivocultural.org/autores/bernal-diaz-del-castillo.html](https://archivocultural.org/autores/bernal-diaz-del-castillo.html)
+
+---
+
 ### Diego Durán (1537–1588)
 
 Fraile dominico e historiador de la Nueva España.
 Obra disponible: *Historia de las Indias de Nueva España e islas de Tierra Firme*
 [https://archivocultural.org/autores/diego-duran.html](https://archivocultural.org/autores/diego-duran.html)
+
+---
+
+### José María Eguren (1874–1942)
+
+Poeta peruano, figura importante del simbolismo y modernismo en el Perú.
+[https://archivocultural.org/autores/jose-maria-eguren.html](https://archivocultural.org/autores/jose-maria-eguren.html)
 
 ---
 
@@ -163,11 +176,18 @@ Obra disponible: *La Araucana*
 
 ---
 
-### Teresa González de Fanning (1836–1918)
+### Francisco García Calderón Rey (1883–1953)
 
-Escritora y educadora peruana.
-Obra disponible: *Regina*
-[https://archivocultural.org/autores/teresa-gonzalez-de-fanning.html](https://archivocultural.org/autores/teresa-gonzalez-de-fanning.html)
+Filósofo, escritor, ensayista y diplomático peruano. Miembro de la Generación del 900.
+Obra disponible: *El Perú contemporáneo*
+[https://archivocultural.org/autores/francisco-garcia-calderon-rey.html](https://archivocultural.org/autores/francisco-garcia-calderon-rey.html)
+
+---
+
+### Ventura García Calderón Rey (1886–1959)
+
+Escritor y diplomático peruano, hermano de Francisco García Calderón Rey.
+[https://archivocultural.org/autores/ventura-garcia-calderon.html](https://archivocultural.org/autores/ventura-garcia-calderon.html)
 
 ---
 
@@ -211,6 +231,14 @@ Obra disponible: *Historia de Chile desde su descubrimiento hasta el año de 157
 
 ---
 
+### Teresa González de Fanning (1836–1918)
+
+Escritora y educadora peruana.
+Obra disponible: *Regina*
+[https://archivocultural.org/autores/teresa-gonzalez-de-fanning.html](https://archivocultural.org/autores/teresa-gonzalez-de-fanning.html)
+
+---
+
 ### Manuel González Prada (1844–1918)
 
 Ensayista y poeta peruano.
@@ -227,19 +255,25 @@ Obra disponible: *Nueva crónica y buen gobierno*
 
 ---
 
-### Antonio de Herrera y Tordesillas (1549–1626)
+### Pedro Henríquez Ureña (1884–1946)
 
-Cronista mayor de Indias.
-Obra disponible: *Historia general de los hechos de los castellanos*
-[https://archivocultural.org/autores/antonio-de-herrera-y-tordesillas.html](https://archivocultural.org/autores/antonio-de-herrera-y-tordesillas.html)
+Escritor, filólogo y crítico literario dominicano, importante figura del ensayo latinoamericano.
+[https://archivocultural.org/autores/pedro-henriquez-urena.html](https://archivocultural.org/autores/pedro-henriquez-urena.html)
 
 ---
 
-### Diego de Landa (1524–1579)
+### Pero Hernández (siglo XVI)
 
-Obispo español y cronista de Yucatán.
-Obra disponible: *Relación de las cosas de Yucatán*
-[https://archivocultural.org/autores/diego-de-landa.html](https://archivocultural.org/autores/diego-de-landa.html)
+Cronista español de la expedición al Río de la Plata.
+[https://archivocultural.org/autores/pero-hernandez.html](https://archivocultural.org/autores/pero-hernandez.html)
+
+---
+
+### Antonio de Herrera y Tordesillas (1549–1626)
+
+Cronista mayor de Indias.
+Obras disponibles: *Historia general de los hechos de los castellanos*, *Historia general del mundo del tiempo del señor rey don Felipe II*, *Comentarios de los hechos de los españoles, franceses y venecianos en Italia*
+[https://archivocultural.org/autores/antonio-de-herrera-y-tordesillas.html](https://archivocultural.org/autores/antonio-de-herrera-y-tordesillas.html)
 
 ---
 
@@ -251,11 +285,11 @@ Obra disponible: *Brevísima relación de la destrucción de las Indias*
 
 ---
 
-### Pedro Mariño de Lobera (1528–1594)
+### Diego de Landa (1524–1579)
 
-Conquistador y cronista de Chile.
-Obra disponible: *Crónica del Reino de Chile*
-[https://archivocultural.org/autores/pedro-marino-de-lobera.html](https://archivocultural.org/autores/pedro-marino-de-lobera.html)
+Obispo español y cronista de Yucatán.
+Obra disponible: *Relación de las cosas de Yucatán*
+[https://archivocultural.org/autores/diego-de-landa.html](https://archivocultural.org/autores/diego-de-landa.html)
 
 ---
 
@@ -264,6 +298,28 @@ Obra disponible: *Crónica del Reino de Chile*
 Ensayista y pensador peruano.
 Obra disponible: *Siete ensayos de interpretación de la realidad peruana*
 [https://archivocultural.org/autores/jose-carlos-mariategui.html](https://archivocultural.org/autores/jose-carlos-mariategui.html)
+
+---
+
+### Pedro Mariño de Lobera (1528–1594)
+
+Conquistador y cronista de Chile.
+Obra disponible: *Crónica del Reino de Chile*
+[https://archivocultural.org/autores/pedro-marino-de-lobera.html](https://archivocultural.org/autores/pedro-marino-de-lobera.html)
+
+---
+
+### José Martí (1853–1895)
+
+Político, diplomático, poeta, ensayista y periodista cubano. Héroe nacional de Cuba y precursor del modernismo literario hispanoamericano.
+[https://archivocultural.org/autores/jose-marti.html](https://archivocultural.org/autores/jose-marti.html)
+
+---
+
+### Juan de Matienzo (1520–1579)
+
+Jurista y oidor español del Virreinato del Perú. Autor de obras sobre el gobierno de las Indias.
+[https://archivocultural.org/autores/juan-de-matienzo.html](https://archivocultural.org/autores/juan-de-matienzo.html)
 
 ---
 
@@ -291,6 +347,13 @@ Obra disponible: *Historia eclesiástica indiana*
 
 ---
 
+### Alonso de Molina (1514–1585)
+
+Fraile franciscano, lingüista y lexicógrafo español. Autor de diccionarios náhuatl-español.
+[https://archivocultural.org/autores/alonso-de-molina.html](https://archivocultural.org/autores/alonso-de-molina.html)
+
+---
+
 ### Cristóbal de Molina (1529–1585)
 
 Cronista español del Perú.
@@ -307,11 +370,33 @@ Obra disponible: *Historia general del Perú*
 
 ---
 
+### Antonio de Nebrija (1441–1522)
+
+Humanista español, autor de la primera gramática de la lengua castellana.
+Obras disponibles: *Introductiones latinae*, *Gramática de la lengua castellana*
+[https://archivocultural.org/autores/antonio-de-nebrija.html](https://archivocultural.org/autores/antonio-de-nebrija.html)
+
+---
+
+### Marcos de Niza (1495–1558)
+
+Fraile franciscano y explorador de la expedición a Cíbola.
+[https://archivocultural.org/autores/marcos-de-niza.html](https://archivocultural.org/autores/marcos-de-niza.html)
+
+---
+
 ### Francisco Núñez de Pineda y Bascuñán (1607–1682)
 
 Militar y escritor chileno.
 Obra disponible: *Cautiverio feliz*
 [https://archivocultural.org/autores/francisco-nunez-de-pineda-y-bascunan.html](https://archivocultural.org/autores/francisco-nunez-de-pineda-y-bascunan.html)
+
+---
+
+### Andrés de Olmos (1485–1571)
+
+Fraile franciscano, lingüista y etnógrafo especializado en las lenguas indígenas de la Nueva España.
+[https://archivocultural.org/autores/andres-de-olmos.html](https://archivocultural.org/autores/andres-de-olmos.html)
 
 ---
 
@@ -364,6 +449,27 @@ Obras disponibles:
 
 ---
 
+### Raúl Porras Barrenechea (1897–1960)
+
+Historiador, diplomático y ensayista peruano, especialista en crónicas de Indias.
+[https://archivocultural.org/autores/raul-porras-barrenechea.html](https://archivocultural.org/autores/raul-porras-barrenechea.html)
+
+---
+
+### José de la Riva-Agüero y Osma (1885–1944)
+
+Historiador, pensador y político peruano. Miembro destacado de la Generación del 900.
+[https://archivocultural.org/autores/jose-de-la-riva-aguero.html](https://archivocultural.org/autores/jose-de-la-riva-aguero.html)
+
+---
+
+### José Enrique Rodó (1871–1917)
+
+Ensayista y escritor uruguayo. Autor de *Ariel*, obra fundamental del modernismo latinoamericano.
+[https://archivocultural.org/autores/jose-enrique-rodo.html](https://archivocultural.org/autores/jose-enrique-rodo.html)
+
+---
+
 ### Diego de Rosales (1603–1677)
 
 Jesuita e historiador de Chile.
@@ -372,11 +478,26 @@ Obra disponible: *Historia general del Reino de Chile*
 
 ---
 
+### Bernardino de Sahagún (1499–1590)
+
+Fraile franciscano y etnógrafo de la cultura náhuatl.
+Obras disponibles: *Historia general de las cosas de Nueva España*, *Psalmodia christiana*, *Arte de la lengua mexicana*, *Coloquios y doctrina cristiana*
+[https://archivocultural.org/autores/bernardino-de-sahagun.html](https://archivocultural.org/autores/bernardino-de-sahagun.html)
+
+---
+
 ### Justo Apu Sahuaraura Inca (1775–1853)
 
 Historiador peruano.
 Obra disponible: *Recuerdos de la monarquía peruana*
 [https://archivocultural.org/autores/justo-apu-sahuaraura-inca.html](https://archivocultural.org/autores/justo-apu-sahuaraura-inca.html)
+
+---
+
+### Luis Alberto Sánchez (1900–1994)
+
+Escritor, crítico literario, historiador y político peruano.
+[https://archivocultural.org/autores/luis-alberto-sanchez.html](https://archivocultural.org/autores/luis-alberto-sanchez.html)
 
 ---
 
@@ -401,6 +522,13 @@ Obra disponible: *Monarquía indiana*
 Conquistador español y gobernador de Chile.
 Obra disponible: *Cartas de Pedro de Valdivia*
 [https://archivocultural.org/autores/pedro-de-valdivia.html](https://archivocultural.org/autores/pedro-de-valdivia.html)
+
+---
+
+### Francisco Vázquez de Coronado (1510–1554)
+
+Conquistador y explorador español de la expedición al norte de la Nueva España.
+[https://archivocultural.org/autores/francisco-vazquez-de-coronado.html](https://archivocultural.org/autores/francisco-vazquez-de-coronado.html)
 
 ---
 
@@ -463,8 +591,11 @@ El índice reúne autores vinculados con:
 * Literatura del Siglo de Oro
 * Historia colonial de América Latina
 * Pensamiento político y ensayístico latinoamericano
+* Modernismo hispanoamericano
+* Generación del 900
 * Tradiciones y memoria cultural
 * Etnografía y antropología histórica
+* Lingüística colonial
 
 ---
 
